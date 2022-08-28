@@ -6,6 +6,8 @@ fonction: enseignante
 adresse: " Djibouti"
 email: ismahandjamaatteyeh@gmail.com
 telephone: "+253 77 68 62 85"
+competences:
+- nom: 'enseignante '
 
 ---
 # hello !
